@@ -10,7 +10,7 @@
   ```bash
   echo "Hello World"   # Muestra un mensaje en pantalla
   clear                # Borra el contenido de la pantalla
-  ```
+  ``` 
 
 #### 3. Visualiza por pantalla varias combinaciones útiles del comando CTRL. Se proporciona una lista de las combinaciones de las teclas más usadas. L C U K A E. Probarlas todas.
 - Algunas combinaciones útiles de teclas CTRL incluyen:
