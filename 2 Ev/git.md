@@ -61,8 +61,8 @@
 #### 9. Moverse a través de los directorios de tu disco duro principal o unidad C. Tanto a la derecha en el árbol de directorio. Como luego a la izquierda volviendo al directorio inicial.
 - Para moverse a través de los directorios:
   ```bash
-  cd path/to/directory   # Moverse a la derecha en el árbol de directorios
-  cd ..                  # Moverse a la izquierda, al directorio superior
+  cd path/to/directory   
+  cd ..                 
   ```
 
 #### 10. Utilizar un comando que te lleve a la raíz del usuario. Suele ser la misma en la que inicia el software Bash. Y otro comando que te lleve a la raíz del sistema. Suele ser la unidad C.
