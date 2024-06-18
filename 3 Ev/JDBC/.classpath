@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="jdbc/src/main/java"/>
+	<classpathentry kind="src" path="jdbc/src/test/java"/>
+	<classpathentry kind="lib" path="jdbc/lib/unknown/binary/intellij_forms_rt/SNAPSHOT/intellij_forms_rt-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="jdbc/target/jdbc-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="jdbc/target/classes"/>
+</classpath>
