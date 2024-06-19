@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\zhiya\Desktop\IMF\Primer Año\David\Entornos de Desarrollo (90 horas)\jdbc\.metadata\.plugins\org.eclipse.jdt.core
+3149810874.index
+1865797976.index
+1067094681.index
